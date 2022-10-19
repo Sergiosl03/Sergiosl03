@@ -1,4 +1,13 @@
-### Hi there 👋
+### BUENAS GENTE, ME LLAMO SERGIO 👋
+***Animador 3D***
+
+Soy estudiante de CEV de grado superior.
+
+La animación 3D es uno de los trabajos que mas me han llamado la atención dentro de este mundillo. También podria destacar modelado 3D en ZBrush. Algunos de mis proyectos se pueden encontrar en [**ArtStation**](https://www.artstation.com/sergio_siles03).
+Desde siempre mi ambición ha sido emprender y crear una empresa envuelta en el diseño, paginas web, redes sociales.
+
+## Programas:
+[
 
 <!--
 **Sergiosl03/Sergiosl03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

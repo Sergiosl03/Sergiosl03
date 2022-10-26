@@ -6,13 +6,13 @@ Soy estudiante de CEV de grado superior.
 La animación 3D es uno de los trabajos que mas me han llamado la atención dentro de este mundillo. También podria destacar modelado 3D en ZBrush. Algunos de mis proyectos se pueden encontrar en [**ArtStation**](https://www.artstation.com/sergio_siles03).
 Desde siempre mi ambición ha sido emprender y crear una empresa envuelta en el diseño, paginas web, redes sociales.
 
-## Programas:
+## Programas
 **- Maya**
 **- 3dsMax**
 **- ZBrush**
 **- PhotoShop**
 
-## Proyectos Personales:
+## Proyectos Personales
 
 <table style="width:100%">
   <tr>

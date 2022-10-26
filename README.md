@@ -7,7 +7,7 @@ La animación 3D es uno de los trabajos que mas me han llamado la atención dent
 Desde siempre mi ambición ha sido emprender y crear una empresa envuelta en el diseño, paginas web, redes sociales.
 
 ## Programas
-**- Maya**
+**Maya**
 **- 3dsMax**
 **- ZBrush**
 **- PhotoShop**

@@ -41,13 +41,17 @@ Desde siempre mi ambición ha sido emprender y crear una empresa envuelta en el 
 ![Instagram](https://user-images.githubusercontent.com/113462782/198047699-b4d7d490-1e41-4faf-a2ef-9f36e7ecb723.svg)](https://instagram.com/sergio_siles03)
 -->
 
-<img src="https://user-images.githubusercontent.com/113462782/198047699-b4d7d490-1e41-4faf-a2ef-9f36e7ecb723.svg" width="40">
+
+
+<a  href="https://instagram.com/sergio_siles03"><img src="https://user-images.githubusercontent.com/113462782/198047699-b4d7d490-1e41-4faf-a2ef-9f36e7ecb723.svg" width="35">
+</a>
 
 <!--
 ![twitter](https://user-images.githubusercontent.com/113462782/198049223-1126a34c-abbe-4e12-ba8b-739ef7a8bd17.svg)](https://twitter.com/SSiles03)
 -->
 
-<img src="https://user-images.githubusercontent.com/113462782/198049223-1126a34c-abbe-4e12-ba8b-739ef7a8bd17.svg" width="40">
+
+<a href="https://twitter.com/SSiles03"><img src="https://user-images.githubusercontent.com/113462782/198049223-1126a34c-abbe-4e12-ba8b-739ef7a8bd17.svg" width="35"></a>
 
 
 <!--
@@ -57,7 +61,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...

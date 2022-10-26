@@ -33,6 +33,11 @@ Desde siempre mi ambición ha sido emprender y crear una empresa envuelta en el 
   		<img src="https://cdna.artstation.com/p/assets/images/images/050/292/622/original/sergio-siles-t4sergiosiles.gif?1654525589">
 	</a>
 	</td>
+ <td>
+	<a href="https://www.artstation.com/sergio_siles03">
+  		<img src="https://cdnb.artstation.com/p/assets/images/images/044/460/293/large/sergio-siles-caraperfil.jpg?1640078477">
+	</a>
+	</td>
 	
 </table>
 
